@@ -1,0 +1,5 @@
+references/
+/node_modules
+config
+.env
+constants.js
